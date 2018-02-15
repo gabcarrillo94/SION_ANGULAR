@@ -1,0 +1,167 @@
+{
+    "app": {
+        "sion": "Agencia Digital",
+        "home": "Inicio",
+        "about": "Sobre",
+        "services": "Servicios",
+        "contact": "Contacto",
+        "language": "Idioma",
+        "en": "Inglés",
+        "es": "Español",
+        "develop": "Desarrollo de Software",
+        "design": "Diseño",
+        "marketing": "Community Manager",
+        "others": "Otros",
+        "subscribe": "Suscríbete",
+        "subscribeText": "Sé el primero en conocer de nuestras ofertas y servicios.",
+        "email": "Correo",
+        "name": "Nombre",
+        "sub": "Suscribirse",
+        "aboutUs": "Sobre nosotros",
+        "aboutUsText": "Agencia Digital SION surge de la unión de profesionales comprometidos con la tecnología, con más de 10 años de experiencia en el mercado tecnológico, siendo expertos en ingeniería y desarrollo web, diseño gráfico, marketing digital, publicidad online y soporte técnico para empresas, pymes, compañías emergentes y emprendedores.",
+        "termServ" : "Términos de Servicio",
+        "privacyPol" : "Políticas de Privacidad",
+        "contactMed": "Medios de Contacto"
+    },
+    "home": {
+      "title1": "Lleva Tu Negocio al Siguiente Nivel",
+      "title2": "Tus Especialistas en Soluciones y Diseño Están",
+      "title3": "En",
+      "services": "Servicios",
+      "research": {
+        "title": "Investigación",
+        "text": "Para nosotros nada es tan importante como la innovación, por eso constantemente estamos en búsqueda de nuevas tecnologías."
+      },
+      "clients": {
+        "title": "Clientes",
+        "text": "Para Sion el cliente siempre es lo primero y en nuestra área de trabajo entendemos muy bien sus necesidades y las de sus usuarios."
+      },
+      "delivery": {
+        "title": "Entregas",
+        "text": "Nos tomamos muy en serio los tiempos de entrega. Planificación y responsabilidad por encima de todo."
+      },
+      "offer": {
+        "title": "¿Qué ofrecemos a nuestros clientes?",
+        "text": "Creamos Software Web flexible, escalable y seguro, listo para integrarse al sistema de negocio de marcas y/o empresas. Nuestra estrategia de trabajo es ágil y adaptativa, siempre pensando en la calidad, mantenimiento y evolucióndel producto.",
+        "subsection1": {
+          "title": "Planificación Inteligente",
+          "text": "Nuestro equipo está calificado en desarrollo ágil y eficiente."
+        },
+        "subsection2": {
+          "title": "Full Responsive",
+          "text": "Todas nuestras aplicaciones son escalables a múltiples dispositivos."
+        },
+        "subsection3": {
+          "title": "Desarrollo Web",
+          "text": "Las aplicaciones Web son nuestro fuerte. Tenemos lo que necesitas."
+        },
+        "subsection4": {
+          "title": "Diseño Web",
+          "text": "Soluciones creativas que van de la mano de la mejor interfaz para tus usuarios."
+        }
+      },
+      "works": {
+        "title": "Nuestros Últimos Trabajos",
+        "text": "Nuestra trayectoría habla por nosotros. A continuación una muestra de los últimos trabajos de nuestro equipo",
+        "subsection1": {
+          "title": "Diseño Web",
+          "text": "TruckBu: Tracking de Camiones en EU"
+        },
+        "subsection2": {
+          "title": "Aplicación de Escritorio",
+          "text": "Arabito Assistant"
+        },
+        "subsection3": {
+          "title": "Diseño Web",
+          "text": "Multi Medic"
+        },
+        "look": "Mira Todos Nuestros Trabajos"
+      },
+      "figures": {
+        "title": "Datos",
+        "text": "¿Quieres saber más sobre nosotros?, aquí tienes algunos datos de interés.",
+        "subsection1": "Creatividad",
+        "subsection2": "Clientes Satisfechos",
+        "subsection3": "Proyectos Terminados",
+        "subsection4": "Horas Invertidas"
+      },
+      "see": "Ver Más"
+    },
+    "aboutUs": {
+      "title": "Sobre Nosotros",
+      "history": "Historia de la Compañía",
+      "historySub": "Sion nace como un proyecto creativo de la mano de personas de distintas partes del mundo, cuyos principales puntos en común son su pasión por la tecnología, ingenio y dedicación.",
+      "subText1": "Agencia Digital SION surge de la unión de profesionales disciplinados y apasionados por la tecnología, con más de 10 años de experiencia en el mercado tecnológico, siendo expertos en ingeniería y desarrollo web y app, diseño gráfico, marketing digital, publicidad online y soporte técnico para empresas, pymes, compañías emergentes y emprendedores",
+      "subText2": "convencidos de que el ingenio y la creatividad no conocen limites, y, por lo tanto, nuestras soluciones tampoco. Teniendo como premisa que:",
+      "subText3": "Las cosas hechas con amor son las que impactan al mundo y dejan huellas que trascienden en el tiempo",
+      "team": "Conoce al Equipo",
+      "teamSub": "Nuestro equipo está conformado por profesionales de distintas áreas de la tecnología y la información."
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "search": "Envíanos tus inquietudes",
+      "name": "Nombre",
+      "email": "Correo",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar",
+      "contactInfo": "Información de Contacto"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "offer": "Qué Ofrecemos",
+      "offerSub": "Más allá de sus problemas, necesidades o nivel empresarial, ¡Sion tiene lo que necesita!. Conozca nuestros servicios, seguro encontrará varios que sean útiles para su negocio.",
+      "section1": {
+        "title": "Desarrollo Software",
+        "text": "Desarrollamos soluciones que optimizan procesos y hacen su rutina cada vez más eficiente."
+      },
+      "section2": {
+        "title": "Diseño Gráfico",
+        "text": "Creamos y desarrollamos logotipos, flayers, trípticos, dípticos, tarjetas de presentación, y demás material POP para tu negocio."
+      },
+      "section3": {
+        "title": "Community Manager",
+        "text": "Tenemos paquetes de trabajo para viralizar su marca, producto y servicio"
+      },
+      "section4": {
+        "title": "E-Commerce",
+        "text": "Estamos especializados para entregar una herramienta de ventas fácil de usar, adaptable y con excelentes resultados."
+      },
+      "section5": {
+        "title": "Desarrollo App",
+        "text": "Desarrollamos aplicaciones para iOS y Android personalizadas, para que la practicidad del celular sea utilizada en su favor."
+      },
+      "section6": {
+        "title": "Web Sities",
+        "text": "Tenga un sitio personalizado con su identidad visual, moderna, de acuerdo con las tendencias más contemporáneas de desarrollo web."
+      },
+      "sectionMore": {
+        "title": "Más Servicios",
+        "text": "¡Espera!, sabemos que mantener una empresa no es sencillo, tenemos mucho más para ofrecerte."
+      },
+      "subsection1": "Marketing Digital",
+      "subsection2": "Diseño de Base de Datos",
+      "subsection3": "Diagramas de Flujo",
+      "subsection4": "Centro de Servicios",
+      "subsection5": "Soporte Técnico",
+      "subsection6": "Mantenimiento y limpieza de Software"
+    },
+    "serviceMain1": {
+      "text1": "¿Está necesitando una solución a los problemas propios de su negocio?",
+      "subText1": "¡Agencia Digital SION desarrolla para usted!",
+      "section1": "¿Pensó en un sistema que atienda las necesidades de su día a día? ¿Busca una herramienta que aumente la eficiencia en su trabajo?. acemos un levantamiento de sus necesidades para elaborar una propuesta que las atienda.",
+      "section2": "Desarrollamos y entregamos soluciones de forma ágil que optimizan procesos y hacen su rutina cada vez más eficiente."
+    },
+    "serviceMain2": {
+      "text1": "¿Su negocio necesita crear o renovar una imagen de marca?",
+      "subText1": "¡Agencia Digital SION diseña para usted!",
+      "section1": "¿Tu negocio, local o empresa necesita crearse una imagen de marca? ¿O quieres renovarla adaptándola a las nuevas tendencias del mercado? ¡Agencia Digital SION cuenta con talentos en diseño gráfico, editorial, publicitario, packaging, corporativo, multimedia!",
+      "section2": "Profesionales en el campo de la comunicación visual que harán que tu empresa impacte y aumente tu presencia en cualquier medio digital o impreso. Para ello creamos y desarrollamos logotipos, flayers, trípticos, dípticos, tarjetas de presentación, y demás material POP para tu negocio."
+    },
+    "serviceMain3": {
+      "text1": "¿Necesitas gestionar tu marca en Internet a través de contenido creativo?",
+      "subText1": "¡Agencia Digital SION la hace tendencia para usted!",
+      "section1": "¿Sabía usted que hoy en día las grandes compañías tienen mayores ventas gracias al feedback que tienen con sus clientes a través de las redes sociales? El Community Manager modera sus redes sociales (Facebook, Instagram, LinkedIn y Google Plus) para acercarlo al cliente, lidera las estrategias de la marca y genera campañas para el impulso de la misma.",
+      "section2": "Sea visto, sea recordado. ¡Esté donde su público está! ¡En Agencia Digital SION tenemos paquetes de trabajo para viralizar su marca, producto y servicio! Porque ya no se trata de solo estar en Internet, sino de impactar las redes."
+    }
+}

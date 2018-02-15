@@ -1,0 +1,167 @@
+{
+    "app": {
+        "sion": "Digital Agency",
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact",
+        "language": "Language",
+        "en": "English",
+        "es": "Spanish",
+        "develop": "Software development",
+        "design": "Design",
+        "marketing": "Community Manager",
+        "others": "Others",
+        "subscribe": "Subscribe",
+        "subscribeText": "Be the first to know about our offers and services.",
+        "email": "Email",
+        "name": "Name",
+        "sub": "To subscribe",
+        "aboutUs": "About Us",
+        "aboutUsText": "Digital Agency SION arises from the union of professionals committed to technology, with more than 10 years of experience in the technology market, being experts in engineering and web development, graphic design, digital marketing, online advertising and technical support for companies, SMEs, emerging companies and entrepreneurs.",
+        "termServ" : "Terms of Service",
+        "privacyPol" : "Privacy policies",
+        "contactMed": "Contact means"
+    },
+    "home": {
+      "title1": "Take Your Business to the Next Level",
+      "title2": "Your Solutions and Design Specialists Are",
+      "title3": "In",
+      "services": "Services",
+      "research": {
+        "title": "Research",
+        "text": "For us nothing is as important as innovation, that's why we are constantly looking for new technologies."
+      },
+      "clients": {
+        "title": "Clients",
+        "text": "For Sion the customer always comes first and in our area of work we understand very well their needs and those of their users."
+      },
+      "delivery": {
+        "title": "Delivery",
+        "text": "We take delivery times very seriously. Planning and responsibility above all."
+      },
+      "offer": {
+        "title": "What do we offer to our clients?",
+        "text": "We create flexible, scalable and secure Web Software, ready to be integrated into the business system of brands and / or companies. Our work strategy is agile and adaptive, always thinking about the quality, maintenance and evolution of the product.",
+        "subsection1": {
+          "title": "Smart Planning",
+          "text": "Our team is qualified in agile and efficient development."
+        },
+        "subsection2": {
+          "title": "Full Responsive",
+          "text": "All our applications are scalable to multiple devices."
+        },
+        "subsection3": {
+          "title": "Web Development",
+          "text": "Web applications are our strength. We have what you need."
+        },
+        "subsection4": {
+          "title": "Web Design",
+          "text": "Creative solutions that go hand in hand with the best interface for your users."
+        }
+      },
+      "works": {
+        "title": "Our Latest Works",
+        "text": "Our trajectory speaks for us. Here is a sample of the latest work of our team",
+        "subsection1": {
+          "title": "Web Design",
+          "text": "TruckBu: Tracking for Trucks in EU"
+        },
+        "subsection2": {
+          "title": "Desktop application",
+          "text": "Arabito Assistant"
+        },
+        "subsection3": {
+          "title": "Web Design",
+          "text": "Multi Medic"
+        },
+        "look": "All Our Works"
+      },
+      "figures": {
+        "title": "Our Digits",
+        "text": "Do you want to know more about us?, here you have some interesting information.",
+        "subsection1": "Creativity",
+        "subsection2": "Satisfied Customers",
+        "subsection3": "Finished Projects",
+        "subsection4": "Inverted Hours"
+      },
+      "see": "See More"
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "history": "Company history",
+      "historySub": "Sion was born as a creative project by people from different parts of the world, whose main points in common are their passion for technology, ingenuity and dedication.",
+      "subText1": "Digital Agency SION arises from the union of disciplined professionals passionate about technology, with more than 10 years of experience in the technology market, being experts in engineering and web development and app, graphic design, digital marketing, online advertising and technical support for companies, SMEs, emerging companies and entrepreneurs",
+      "subText2": "convinced that ingenuity and creativity know no limits, and, therefore, our solutions either. With the premise that:",
+      "subText3": "Things made with love are those that impact the world and leave traces that transcend time",
+      "team": "Meet the Team",
+      "teamSub": "Our team is made up of professionals from different areas of technology and information."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "search": "Send us your questions",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send",
+      "contactInfo": "Contact Information"
+    },
+    "services": {
+      "title": "Our Services",
+      "offer": "What We Offer?",
+      "offerSub": "Beyond your problems, needs or business level, Sion has what it needs! Know our services, you will surely find several that are useful for your business.",
+      "section1": {
+        "title": "Software Development",
+        "text": "We develop solutions that optimize processes and make your routine more and more efficient."
+      },
+      "section2": {
+        "title": "Graphic design",
+        "text": "We create and develop logos, flayers, triptychs, leaflets, business cards, and other POP material for your business."
+      },
+      "section3": {
+        "title": "Community Manager",
+        "text": "We have work packages to viralize your brand, product and service"
+      },
+      "section4": {
+        "title": "E-Commerce",
+        "text": "We are specialized to deliver a sales tool that is easy to use, adaptable and with excellent results."
+      },
+      "section5": {
+        "title": "App Development",
+        "text": "We develop customized applications for iOS and Android, so that the practicality of the cell phone is used in your favor."
+      },
+      "section6": {
+        "title": "Web Sities",
+        "text": "Have a personalized site with your visual identity, modern, according to the most contemporary trends of web development."
+      },
+      "sectionMore": {
+        "title": "More Services",
+        "text": "Wait! We know that maintaining a company is not easy, we have much more to offer you."
+      },
+      "subsection1": "Digital marketing",
+      "subsection2": "Database Design",
+      "subsection3": "Flowcharts",
+      "subsection4": "Center of services",
+      "subsection5": "Technical support",
+      "subsection6": "Maintenance and cleaning Software"
+    },
+    "serviceMain1": {
+      "text1": "Are you needing a solution to the problems of your business?",
+      "subText1": "Digital Agency SION develops for you!",
+      "section1": "Did you think of a system that meets the needs of your day to day? Are you looking for a tool that increases efficiency in your work? Let's get a lift of their needs to elaborate a proposal that attends them.",
+      "section2": "We develop and deliver solutions in an agile way that optimize processes and make your routine more and more efficient."
+    },
+    "serviceMain2": {
+      "text1": "Does your business need to create or renew a brand image?",
+      "subText1": "Digital Agency SION designs for you!",
+      "section1": "Does your business, location or company need to create a brand image? Or do you want to renew it adapting it to the new market trends? Digital Agency SION has talents in graphic design, publishing, advertising, packaging, corporate, multimedia!",
+      "section2": "Professionals in the field of visual communication that will make your company impact and increase your presence in any digital or printed media. To do this we create and develop logos, flayers, triptychs, leaflets, business cards, and other POP material for your business."
+    },
+    "serviceMain3": {
+      "text1": "Do you need to manage your brand on the Internet through creative content?",
+      "subText1": "Digital Agency SION makes it a trend for you!",
+      "section1": "Did you know that today large companies have greater sales thanks to the feedback they have with their customers through social networks? The Community Manager moderates its social networks (Facebook, Instagram, LinkedIn and Google Plus) to bring it closer to the customer, leads brand strategies and generates campaigns to boost it.",
+      "section2": "Be seen, be remembered. Be where your audience is! At Agencia Digital SION we have work packages to viralize your brand, product and service! Because it is no longer about just being on the Internet, but about impacting networks."
+    }
+}

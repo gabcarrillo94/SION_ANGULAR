@@ -3,7 +3,9 @@
     <div class="row">
       <div class="col-md-4 col-sm-12">
         <div id="gtco-logo">
-          <a routerLink="home"><img src="assets/images/icon.png" with="250" height="50"> <br> Agencia Digital <em>.</em></a>
+          <a routerLink="home"><img src="assets/images/icon.png" with="250" height="50"> <br>
+          {{ 'app.sion' | translate }}
+          <em>.</em></a>
         </div>
       </div>
       
@@ -19,19 +21,26 @@
     <div class="row">
       <div class="col-xs-12 text-right menu-1">
         <ul>
-          <li><a routerLink="home">Home</a></li>
-          <li><a routerLink="about">About</a></li>
+          <li><a routerLink="home">{{ 'app.home' | translate }}</a></li>
+          <li><a routerLink="about">{{ 'app.about' | translate }}</a></li>
           <li class="has-dropdown">
-            <a routerLink="services">Servicios</a>
+            <a routerLink="services">{{ 'app.services' | translate }}</a>
             <ul class="dropdown">
-              <li><a href="#">Desarrollo de Software</a></li>
-              <li><a href="#">Diseño</a></li>
-              <li><a href="#">Marketing</a></li>
-              <li><a routerLink="services">Otros</a></li>
+              <li><a routerLink="serviceMain1">{{ 'app.develop' | translate }}</a></li>
+              <li><a routerLink="serviceMain2">{{ 'app.design' | translate }}</a></li>
+              <li><a routerLink="serviceMain3">{{ 'app.marketing' | translate }}</a></li>
+              <li><a routerLink="services">{{ 'app.others' | translate }}</a></li>
             </ul>
           </li>
           <!-- <li><a href="portfolio.html">Portafolio</a></li> -->
-          <li><a routerLink="contact">Contacto</a></li>
+          <li><a routerLink="contact">{{ 'app.contact' | translate }}</a></li>
+          <li class="has-dropdown">
+            <a>{{ 'app.language' | translate }}</a>
+            <ul class="dropdown">
+              <li><a style="cursor:pointer" (click)="switchLanguage('en')">{{ 'app.en' | translate }}</a></li>
+              <li><a style="cursor:pointer" (click)="switchLanguage('es')">{{ 'app.es' | translate }}</a></li>
+            </ul>
+          </li>
         </ul>
       </div>
     </div>
@@ -39,6 +48,97 @@
 </nav>
 
 <router-outlet></router-outlet>
+
+<div id="gtco-subscribe">
+		<div class="gtco-container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+					<h2>{{ 'app.subscribe' | translate }}</h2>
+					<p>{{ 'app.subscribeText' | translate }}</p>
+				</div>
+			</div>
+			<div class="row animate-box">
+				<div class="col-md-12">
+					<form class="form-inline">
+						<div class="col-md-4 col-sm-4">
+							<div class="form-group">
+								<label for="email" class="sr-only">{{ 'app.email' | translate }}</label>
+								<input type="email" class="form-control" id="email" placeholder="{{ 'app.email' | translate }}">
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4">
+							<div class="form-group">
+								<label for="name" class="sr-only">{{ 'app.name' | translate }}</label>
+								<input type="text" class="form-control" id="name" placeholder="{{ 'app.name' | translate }}">
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4">
+							<button type="submit" class="btn btn-default btn-block">{{ 'app.sub' | translate }}</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer id="gtco-footer" role="contentinfo">
+		<div class="gtco-container">
+			<div class="row row-p	b-md">
+
+				<div class="col-md-4">
+					<div class="gtco-widget">
+						<h3>{{ 'app.aboutUs' | translate }}</h3>
+						<p id="about-us">
+              {{ 'app.aboutUsText' | translate }}
+            </p>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-md-push-1">
+					<div class="gtco-widget">
+						<h3>Links</h3>
+						<ul class="gtco-footer-links">
+							<li><a href="#">{{ 'app.termServ' | translate }}</a></li>
+							<li><a href="#">{{ 'app.privacyPol' | translate }}</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="col-md-4">
+					<div class="gtco-widget">
+						<h3>{{ 'app.contactMed' | translate }}</h3>
+						<ul class="gtco-quick-contact">
+							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
+							<li><a href="#"><i class="icon-mail2"></i> info@gettemplates.co</a></li>
+							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
+						</ul>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="row copyright">
+				<div class="col-md-12">
+					<p class="pull-left">
+						<small class="block">&copy; 2018. All Rights Reserved.</small> 
+						<small class="block">Designed by <a href="http://sion.co/" target="_blank">Sion.com.ve</a></small>
+					</p>
+					<p class="pull-right">
+						<ul class="gtco-social-icons pull-right">
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-linkedin"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+						</ul>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
 <!-- <div class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">

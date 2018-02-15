@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {TranslateService} from '@ngx-translate/core';
 
 @Component({
   selector: 'app-root',
@@ -12,5 +13,13 @@ export class AppComponent {
     mainScript.setAttribute("id", "mainScript");
     mainScript.setAttribute("src", "assets/js/main.js");
     document.body.appendChild(mainScript);
+  }
+  
+  constructor(private translate: TranslateService) {
+    translate.setDefaultLang('en');
+  }
+   
+  switchLanguage(language: string) {
+    this.translate.use(language);
   }
 }
